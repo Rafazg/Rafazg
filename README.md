@@ -4,17 +4,11 @@
 - 🌱 Estou estudando Javascript
 - 🤔 Procurando ajuda com Python
 - 😄 Ele/Dele
-<!--
-**Rafazg/Rafazg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+   <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=Rafazg&show_icons=true&theme=radical"/>
+   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafazg&layout=compact"/>
+  
+  
 
-- 🔭 Trabalho atualmente com projetos próprios
-- 🌱 Estou estudando Javascrip
-- 👯 I’m looking to collaborate on ...
-- 🤔 A procura de ajuda com Python ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
