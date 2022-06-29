@@ -1,8 +1,8 @@
-### Olá, mundo!! 👋
+### Olá, Me chamo Rafael e esse é meu github !! 👋
 
-- 🔭 Trabalho atualmente com projetos próprios
-- 🌱 Estou estudando Javascript
-- 🤔 Procurando ajuda com Python
+- 🔭 Estudante de desenvolvimento web Front-end
+- 🌱 Caruaru - Pernambuco - Brazil
+- 🤔 Trabalhando em projetos pessoais 
 - 😄 Ele/Dele
 
 
