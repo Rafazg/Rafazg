@@ -1,10 +1,12 @@
-### Olá, Me chamo Rafael e esse é meu github !! 👋
+### Hello my name is Rafael and this is my github !! 👋
 
-- 🔭 Estudante de desenvolvimento web Front-end
+- 🔭  Front-end web development student
 - 🌱 Caruaru - Pernambuco - Brazil
-- 🤔 Trabalhando em projetos pessoais 
-- 😄 Ele/Dele
+- 🤔  Working on personal projects 
 
+<div>
+   <img src="https://user-images.githubusercontent.com/99143713/178115532-9e7ef843-776a-4b04-9f37-ea0155167018.gif" align="flex-end">
+</div>
 
 <div>
    <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=Rafazg&show_icons=true&theme=chartreuse-dark"/>
