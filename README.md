@@ -20,8 +20,7 @@
    <img align="center" alt="Rafa-HTML5" height="65cm" width-"100cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
    
 </div>
-<div>
-
-
-</div>
+<br>
+<p align="center"> Number of visits to my profile</p>
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/rafazg/count.svg"></p> 
 
