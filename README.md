@@ -1,8 +1,17 @@
-### Hello my name is Rafael and this is my github !! 👋
+<h1 align="center">Rafael</h1>
+<h1 align="center">Front-End Developer</h1>
 
-- 🔭  Front-end web development student
-- 🌱 Caruaru - Pernambuco - Brazil
-- 🤔  Working on personal projects 
+<div align="start">
+   <p>Eae, tudo bem, esse é meu repositorio,<br> lugar onde você vai encontrar grande parte dos meus projetos </p>
+</div>
+
+<div align="end">
+   <p>Atualmente estou trabalhando bastante com a triade do front end <br> HTML,  CSS e o amigos para todas as horas JavaScript</p>
+</div>
+
+<div align="end">
+   <p>Atualmente estou trabalhando bastante com a triade do front end <br> HTML,  CSS e o amigos para todas as horas JavaScript</p>
+</div>
 
 <div>
    <img src="https://user-images.githubusercontent.com/99143713/178115532-9e7ef843-776a-4b04-9f37-ea0155167018.gif" align="flex-end">
