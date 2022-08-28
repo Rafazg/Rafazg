@@ -9,9 +9,18 @@
    <p>Atualmente estou trabalhando bastante com a triade do front end <br> HTML,  CSS e o amigos para todas as horas JavaScript</p>
 </div>
 
-<div align="end">
-   <p>Atualmente estou trabalhando bastante com a triade do front end <br> HTML,  CSS e o amigos para todas as horas JavaScript</p>
+
+<div align="start">
+   <p><strong>Linkedin</strong></p>
 </div>
+
+<div align="start">
+  <a>
+      <img align="center" alt="Rafa-CSS" height="65cm" width-"100cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+   </a>
+</div>
+
+<br>
 
 <div>
    <img src="https://user-images.githubusercontent.com/99143713/178115532-9e7ef843-776a-4b04-9f37-ea0155167018.gif" align="flex-end">
