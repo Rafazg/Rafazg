@@ -6,7 +6,7 @@
 </div>
 
 <div align="end">
-   <p>Atualmente estou trabalhando bastante com a triade do front end <br> HTML,  CSS e o amigos para todas as horas JavaScript</p>
+   <p>Atualmente estou trabalhando bastante com a triade do front end <br> HTML,  CSS e o amigo para todas as horas JavaScript</p>
 </div>
 <div align="end">
    <p>Também iniciando minhas práticas com NodeJS <img align="center" alt="Rafa-CSS" height="45cm" width-"70cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> </p>
