@@ -13,7 +13,7 @@
 </div>
 
 <div align="end">
-   <p>IDE mais utilizadas <img align="center" alt="Rafa-CSS" height="45cm" width-"70cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+   <p>IDE mais utilizada <img align="center" alt="Rafa-CSS" height="45cm" width-"70cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 
 
