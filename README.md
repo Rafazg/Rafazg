@@ -2,7 +2,7 @@
 <h1 align="center">Front-End Developer</h1>
 
 <div align="start">
-   <p>Eae, tudo bem, esse é meu repositorio,<br> lugar onde você vai encontrar grande parte dos meus projetos </p>
+   <p>Eae, tudo bem?, esse é meu repositorio,<br> lugar onde você vai encontrar grande parte dos meus projetos </p>
 </div>
 
 <div align="end">
