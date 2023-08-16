@@ -1,34 +1,6 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<h1 align="center">Rafael</h1>
-<h1 align="center">Front-End Developer</h1>
-
-<div align="start">
-   <p>Eae, tudo bem?, esse é meu repositorio,<br> lugar onde você vai encontrar grande parte dos meus projetos </p>
-</div>
-
-<div align="end">
-   <p>Atualmente estou trabalhando bastante com a triade do front end <br> HTML,  CSS e o amigo para todas as horas JavaScript</p>
-</div>
-<div align="end">
-   <p>Também iniciando minhas práticas com NodeJS <img align="center" alt="Rafa-CSS" height="45cm" width-"70cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> </p>
-</div>
-
-<div align="end">
-   <p>IDE mais utilizada <img align="center" alt="Rafa-CSS" height="45cm" width-"70cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-</div>
 
 
-<div align="start">
-   <p><strong>Linkedin</strong></p>
-</div>
-
-<div align="start">
-  <a>
-      <img align="center" alt="Rafa-CSS" height="65cm" width-"100cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-   </a>
-</div>
-
-<br>
+   <img src="https://user-images.githubusercontent.com/99143713/178115532-9e7ef843-776a-4b04-9f37-ea0155167018.gif" justify-content="center">
 
 
 
@@ -92,9 +64,7 @@
 
 <br> 
 
-<div>
-   <img src="https://user-images.githubusercontent.com/99143713/178115532-9e7ef843-776a-4b04-9f37-ea0155167018.gif" align="flex-end">
-</div>
+
 
 <div>
    <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=Rafazg&show_icons=true&theme=chartreuse-dark"/>
