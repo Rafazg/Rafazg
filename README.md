@@ -1,12 +1,58 @@
+<div align="center">
+  <img height="150" src="https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rafazg.Rafazg&"  />
+</div>
+
+###
+
+<h1 align="center">Rafael Silva</h1>
+
+###
+
+<h3 align="center">Full Stack Developer</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/claudeniro-rafael-83593322a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UC0IjJwH6b2ZEJlS9FrYTdAQ " target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/raphazg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rafazg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafazg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
-   <img src="https://user-images.githubusercontent.com/99143713/178115532-9e7ef843-776a-4b04-9f37-ea0155167018.gif" justify-content="center">
 
-
-
-
-<h2 dir="auto"><a id="user-content-my-skills" class="anchor" aria-hidden="true" href="#my-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><div align="center" dir="auto">My Skills</div></h2>
 <div align="center" dir="auto">
+
+   
 <table>
 <thead>
 <tr>
@@ -66,11 +112,6 @@
 
 
 
-<div>
-   <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=Rafazg&show_icons=true&theme=chartreuse-dark"/>
-   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafazg&layout=compact&theme=chartreuse-dark"/>
-  
-</div>
 
 
 <br>  
