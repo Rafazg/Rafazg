@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg"  />
+  <img height="150" src="https://github.com/Rafazg/Rafazg/assets/99143713/1ff89374-fc54-480c-b48e-0cd96eeb5cd9"/>
 </div>
 
 ###
