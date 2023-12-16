@@ -10,7 +10,7 @@
 - 🎮 Nas horas vagas gosto de jogar
 - 🥊 Meu esporte favorito é lutar boxe
 - ☕ Apaixonado por chá e codigos
-- 📖 Sou autodidata
+- 📖 Autodidatismo na veia
 
 
 
