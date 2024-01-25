@@ -21,7 +21,7 @@
   ###
 
   <div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eddiescj&theme=react&hide_border=true&show_icons=true&custom_title=Contributions%20Graph" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafazg&theme=github-compact&hide_border=true&show_icons=true&custom_title=Contributions%20Graph" />
   </div>
   
   <div align="center">
