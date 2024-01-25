@@ -19,6 +19,10 @@
   <h3 align="left">🔥   My Stats :</h3>
   
   ###
+
+  <div align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eddiescj&theme=react&hide_border=true&show_icons=true&custom_title=Contributions%20Graph" />
+  </div>
   
   <div align="center">
     <img src="https://streak-stats.demolab.com?user=Rafazg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
