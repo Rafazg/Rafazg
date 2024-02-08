@@ -8,7 +8,7 @@
 ### 👩‍💻 About Me :
 - 📚 Sou estudante de Engenharia de Software, no Instituto Federal de Pernambuco
 - 🎮 Nas horas vagas gosto de jogar
-- 🥊 Meu esporte favorito é lutar boxe
+- 🥊 Boxe Life-Style
 - ☕ Apaixonado por chá e codigos
 - 📖 Autodidatismo na veia
 
