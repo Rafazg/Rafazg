@@ -6,34 +6,20 @@
 </div>
 
 ### 👩‍💻 About Me :
-- 📚 Sou estudante de Engenharia de Software, no Instituto Federal de Pernambuco
-- 🎮 Nas horas vagas gosto de jogar
-- 🥊 Boxe Life-Style
-- ☕ Apaixonado por chá e codigos
-- 📖 Autodidatismo na veia
+
+```diff
+< Rafael 'ZG Dev' Silva ⭐
 
 
+> 📚 Sou estudante de Engenharia de Software, no Instituto Federal de Pernambuco
+> criador de conteúdo de programação e tecnologia
+> 🎮 Nas horas vagas gosto de jogar
+> 📖 Autodidatismo na veia
 
-  ###
-  
-  <h3 align="left">🔥   My Stats :</h3>
-  
-  ###
+! apaixonado por Segurança da Informação
+! 🥊 Boxe Life-Style
+``` 
 
-  <div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafazg&theme=github-compact&hide_border=true&show_icons=true&custom_title=Contributions%20Graph" />
-  </div>
-  
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Rafazg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  </div>
-  
-  ###
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafazg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  </div>
-  
   ###
 
   <br>
@@ -83,6 +69,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+
+
+  <div align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafazg&theme=github-compact&hide_border=true&show_icons=true&custom_title=Contributions%20Graph" />
+  </div>
+  
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=Rafazg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  </div>
+  
+  ###
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafazg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  </div>
+  
+
 
   
   
