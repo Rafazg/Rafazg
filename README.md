@@ -15,9 +15,7 @@
 > criador de conteúdo de programação e tecnologia
 > 🎮 Nas horas vagas gosto de jogar
 > 📖 Autodidatismo na veia
-
 ! apaixonado por Segurança da Informação
-! 🥊 Boxe Life-Style
 ``` 
 
   ###
