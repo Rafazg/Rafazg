@@ -9,7 +9,7 @@ Software Developer with experience in full-stack web development, mobile and gro
   
 - 🔭 Working on the current project [Rookie Coder Network](https://github.com/Jmspter/Rookie-Coder-Network)  
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"><img src="https://github-profile-trophy.vercel.app/?username=rafazg" alt="rafazg" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"><img src="https://github-profile-trophy.vercel.app/?username=rafazg-ma&theme=matrix" alt="rafazg" /></a> </p>
 
 <br/>  
 
