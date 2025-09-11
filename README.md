@@ -1,4 +1,4 @@
-<h1 align="center">< Rafael 'ZG Dev' Silva ></h1>
+[<h1 align="center">< Rafael 'ZG Dev' Silva ></h1>
 
 ###
 
@@ -70,3 +70,4 @@
 </picture>
 
 ###
+](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2p6ang0dTFmZ3hvbWI5YjF4Z3huMnByeDdvdHd2YXY0emNtYXd2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRk3GLfzduq1NtfGt5/giphy.gif)
